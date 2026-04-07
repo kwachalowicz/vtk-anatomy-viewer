@@ -70,7 +70,7 @@ This allows direct comparison between the prebuilt VTK models and procedurally g
 
 ```bash
 git clone https://github.com/kwachalowicz/vtk-anatomy-viewer.git/
-cd YOUR_REPO
+cd vtk-anatomy-viewer
 ```
 
 ### 2. Install dependencies

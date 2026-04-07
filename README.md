@@ -4,7 +4,7 @@ An interactive 3D visualization tool for the SPL/NAC Head and Neck Atlas, built 
 
 ---
 
-## Demo
+## Preview
 
 ![Outline](screenshots/outline.png)
 

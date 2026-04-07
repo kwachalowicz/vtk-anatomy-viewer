@@ -89,7 +89,6 @@ Extract the archive into the `App/` directory so that `head-neck-2016-09/` is pl
 ### 4. Run the application
 
 ```bash
-cd App
 python main.py
 ```
 
@@ -134,8 +133,7 @@ python main.py
 
 ```
 .
-├── App/
-│   └── main.py          # Main application
+├── main.py              # Main application
 ├── screenshots/          # Demo screenshots
 ├── requirements.txt
 └── README.md
